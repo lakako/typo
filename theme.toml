@@ -34,3 +34,9 @@ features = [
 [author]
 name = 'Francesco Tomaselli'
 homepage = 'https://tomfran.github.io/'
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = ['html']
+  term = ['html']
